@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
-
-#Displaying Bash script with 6-superstitious numbers from 1 to 20 times
-
+#Displaying Bash script with 6-superstitious numbers from 1 to 10 times
 i=1
-
 
 
 while [ "$i" -lt 21 ]; do
