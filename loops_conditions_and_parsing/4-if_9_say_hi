@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
-
-#Displaying Best School 10 times till the 4-if_9 iteration using   loop
+#Displaying Best School 10 times the 4-if_9 iteration using  loop
 i=1
-
 
 
 while [ "$i" -lt 11 ]; do
