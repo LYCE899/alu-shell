@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#Displaying Bash script with numbers from 1 to 20
+#Displaying Bash script with 6-superstitious numbers from 1 to 20 times
 
 i=1
 
