@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-splaying several commands in a script
+splaying several commands an a script
 trap "echo I am invincible!!!" SIGTERM
 while true; do  
 
